@@ -1,5 +1,7 @@
 # Network Port Scanner
 
+![Screenshot 2024-08-22 125350](https://github.com/user-attachments/assets/151c935c-140b-471d-8f86-e9606778bafe)
+
 A simple and user-friendly GUI-based network port scanner written in Python using the Tkinter library. This tool allows you to scan a range of ports on a specified IP address to determine if they are open or closed.
 
 ## Features
